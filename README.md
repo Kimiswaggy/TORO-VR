@@ -6,9 +6,8 @@ TORO is a Unity VR Japanese garden simulation built for Meta Quest 2 as a three-
 
 ## Links
 
-- Full visual case study: https://www.keyingkimi.com/toro
+- Portfolio Webpage: https://www.keyingkimi.com/toro
 - Original project site: https://game-toro.weebly.com
-- Interaction clip: [pick-flower-interaction.gif](media/gifs/pick-flower-interaction.gif)
 
 ## My Role
 
