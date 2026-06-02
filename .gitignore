@@ -1,0 +1,30 @@
+# macOS
+.DS_Store
+
+# Unity generated files
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+UserSettings/
+MemoryCaptures/
+
+media/video/*
+media/gifs/*
+!media/video/.gitkeep
+!media/gifs/.gitkeep
+!media/gifs/pick-flower-interaction.gif
+
+# Raw exports
+*.mov
+*.mp4
+*.avi
+*.zip
+*.exe
+*.dll
+
+# Local editor files
+.idea/
+.vscode/
